@@ -1,0 +1,7 @@
+ipython==8.14.0
+ipywidgets==7.6.5
+matplotlib==3.5.1
+numpy==1.22.1
+scipy==1.7.3
+sounddevice==0.4.4
+soundfile==0.11.0
